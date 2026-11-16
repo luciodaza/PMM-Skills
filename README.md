@@ -105,7 +105,7 @@ Rules it holds to:
 
 ### Claude (web and desktop apps)
 
-1. Download the ZIP for the skill you want from [`dist/`](dist/).
+1. Download the file for the skill you want from.
 2. In Claude, go to **Customize > Skills**.
 3. Click **+**, then **Create skill**, then **Upload a skill**.
 4. Upload the ZIP.
@@ -175,7 +175,7 @@ A skill is fast and consistent. It does not know your customers, and it cannot t
 
 ## Author
 
-Built by [Lucio Daza](https://github.com/YOUR-USERNAME), from the way I run launches and competitive research as a product marketer. Shared freely. If you improve one, a pull request is welcome.
+Built by [Lucio Daza](https://github.com/luciodaza), from the way I run launches and competitive research as a product marketer. Shared freely. If you improve one, a pull request is welcome.
 
 ## License
 
